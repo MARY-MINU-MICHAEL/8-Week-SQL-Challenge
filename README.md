@@ -8,7 +8,7 @@ A personal learning log for the **8 Week SQL Challenge** created by Danny Ma and
 
 | Week | Case study | Main analysis focus |
 |---|---|---|
-| 1 | [Danny's Diner](Case-Study-1-Danny-s-Diner/) | Joins, aggregation, customer behavior |
+| 1 | [Danny's Diner]([Case-Study-1-Danny-s-Diner/](https://github.com/MARY-MINU-MICHAEL/Case-Study-1-Danny-s-Diner)) | Joins, aggregation, customer behavior |
 | 2 | [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) | Cleaning messy data, order and runner metrics |
 | 3 | [Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/) | Subscription events, plans, churn and cohorts |
 | 4 | [Data Bank](https://8weeksqlchallenge.com/case-study-4/) | Customer transactions, balances and growth |
